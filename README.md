@@ -1,4 +1,4 @@
 # btfc
 Braintree Town FC - Website Redesign 
 
-I decided to give the website a Revamp
+https://edenstoneman.github.io/btfc/
